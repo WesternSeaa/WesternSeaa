@@ -6,11 +6,16 @@
 
 
 
-<div align="center" style="margin-left: 20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
