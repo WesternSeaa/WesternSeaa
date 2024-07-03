@@ -6,7 +6,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=footlight MT light&pause=1000&random=false&width=435&lines=Hello,+World!" alt="Typing SVG" /></a>
-<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
+<h2 align="center"> Tech Stack ✿ܓ </h2>
 
 
 
