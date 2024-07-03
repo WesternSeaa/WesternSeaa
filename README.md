@@ -6,7 +6,7 @@
 
 
 
-<table margin-left:50px>
+<table style="margin-left: 20;">
   <tr>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="center">
