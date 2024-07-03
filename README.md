@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=7BD1D2&height=100&width=600&section=header&text=%E2%8A%B1My%20GitHub%20Profile%E2%8A%B0%20&fontSize=30&fontColor=FFFFFF&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=7BD1D2&height=100&width=1000&section=header&text=%E2%8A%B1My%20GitHub%20Profile%E2%8A%B0%20&fontSize=30&fontColor=FFFFFF&fontAlign=50" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=Hwang%20hye%20won&fontSize=70"/>
