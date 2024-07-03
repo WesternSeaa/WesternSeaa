@@ -6,13 +6,15 @@
 
 
 
-<table >
+<table style="border: 2px solid black; text-align: center;">
   <tr>
-    <td> <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" /></td>
-    <td align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
-      </a>
+    <td colspan="2">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Hello, World!
     </td>
   </tr>
 </table>
