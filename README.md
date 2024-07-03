@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" &desc=Desc&descSize=30 />
     </td>
   </tr>
 </table>
