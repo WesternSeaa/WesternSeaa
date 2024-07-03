@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=7BD1D2&height=100&section=header&text=%E2%8A%B1My%20GitHub%20Profile%E2%8A%B0%20&fontSize=50&fontColor=FFFFFF&fontAlign=50" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=Hwang hye won%20&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=Hwang hye won&20&fontSize=70" />
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!;)](https://git.io/typing-svg)
