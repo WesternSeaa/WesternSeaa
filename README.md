@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=footlight MT light&pause=1000&random=false&width=435&lines=Hello,+World!" alt="Typing SVG" /></a>
 <h2 align="center"> ✿ Tech Stack </h2>
-<img src="https://img.shields.io/badge/html-90CAF9.svg?style=for-the-badge&logo=html&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/html-90CAF9.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
 
 
 
