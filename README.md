@@ -6,7 +6,11 @@
 
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!;)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
+  </a>
+</div>
 
 
 <img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
