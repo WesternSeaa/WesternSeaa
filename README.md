@@ -1,7 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=7BD1D2&height=100&section=header&text=⊱My GitHub Profile⊰%20&fontSize=50&fontColor=FFFFFF&fontAlign=66" />
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=hyewon's%20gitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=7BD1D2&height=100&section=header&text=⊱My GitHub Profile⊰%20gitHub&fontSize=50&fontColor=FFFFFF&fontAlign=66" />
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=hyewon's%20gitHub&fontSize=70" />
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!;)](https://git.io/typing-svg)
