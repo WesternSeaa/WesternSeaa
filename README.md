@@ -1,2 +1,2 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome%20&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=_custom_gradient&height=300&section=header&text=Welcome%20&fontSize=50" />
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=hyewon's%20gitHub&fontSize=90" />
