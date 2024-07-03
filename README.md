@@ -6,12 +6,13 @@
 
 
 
-<div style="text-align: center;">
-  <div style="display: inline-block; border: 2px solid black; padding: 10px;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
-    <div>Hello, World!</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 
 <img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
