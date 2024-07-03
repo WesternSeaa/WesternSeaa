@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=hyewon's%20gitHub&fontSize=70" />
 
 
-<div align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!;)](https://git.io/typing-svg)
-</div>
+
 
 <img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
