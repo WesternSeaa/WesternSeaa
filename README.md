@@ -6,9 +6,9 @@
 
 
 
-<table style="margin-left: 20;">
+<table >
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td> <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" /></td>
     <td align="center">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
