@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=Hwang%20hye%20won&fontSize=70"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+World!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=footlight MT light&pause=1000&random=false&width=435&lines=Hello,+World!" alt="Typing SVG" /></a>
 
 <img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
