@@ -6,12 +6,12 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=footlight MT light&pause=1000&random=false&width=435&lines=Hello,+World!" alt="Typing SVG" /></a>
-<h2 align="center"> Tech Stack ✿ܓ </h2>
+<h2 align="center"> ✿ Tech Stack </h2>
+<img src="https://img.shields.io/badge/html-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
 
 
-
-<h2 align="center"> Studying ✎ </h2>
+<h2 align="center"> ✎ Studying  </h2>
 <img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
 
