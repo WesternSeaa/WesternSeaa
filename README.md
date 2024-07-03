@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=hyewon's%20gitHub&fontSize=70" />
 
 
-<img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/spring-CCCCCC.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
 
 
