@@ -6,7 +6,7 @@
 
 
 
-<table style="border: 2px solid black; text-align: center;">
+<table style="border: 2px solid black; text-align: center; line-height: center;">
   <tr>
     <td colspan="2">
       <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!;" alt="Typing SVG" />
