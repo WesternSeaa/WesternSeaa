@@ -12,7 +12,7 @@
 
 
 <h2 align="center"> ✎ Studying  </h2>
-<img src="https://img.shields.io/badge/spring-263238.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/spring-283593.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 
 
 
