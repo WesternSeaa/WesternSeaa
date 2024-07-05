@@ -12,7 +12,7 @@
 
 <details>
 <summary>
-<h2 align="center"> ✿ Tech Stack </h2>
+<h2 align="center">  Tech Stack </h2>
 </summary>
 <br>
 <div align="center">
@@ -22,7 +22,7 @@
 
 <details>
 <summary>
-<h2 align="center"> ✎ Studying  </h2>
+<h2 align="center">  Studying  </h2>
 </summary>
   <br>
 <div align="center">
@@ -33,7 +33,7 @@
 
 <details>
   <summary>
-<h2 align="center"> ⚒ Tools  </h2>
+<h2 align="center">  Tools  </h2>
     </summary>
     <br>
 <div align="center">
