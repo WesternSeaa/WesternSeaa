@@ -12,7 +12,7 @@
 
 <details>
 <summary>
-<h2 align="center"> 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 </h2>
+<h2 align="center"> 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 </h2>
 </summary>
 <br>
 <div align="center">
