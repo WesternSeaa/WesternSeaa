@@ -42,6 +42,5 @@
 </details>
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ECEFF1,100:7BD1D2&height=200&section=footer)
