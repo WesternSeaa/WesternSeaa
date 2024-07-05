@@ -22,7 +22,7 @@
 
 <details>
 <summary>
-<h2 align="center">  Studying  </h2>
+<h2 align="center">  𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠  </h2>
 </summary>
   <br>
 <div align="center">
@@ -33,7 +33,7 @@
 
 <details>
   <summary>
-<h2 align="center">  Tools  </h2>
+<h2 align="center">  𝐓𝐨𝐨𝐥𝐬  </h2>
     </summary>
     <br>
 <div align="center">
