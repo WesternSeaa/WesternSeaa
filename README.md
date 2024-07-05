@@ -25,7 +25,7 @@
 
 <h2 align="center"> ⚒ Tools  </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/github-BA90C6.svg?style=for-the-badge&logo=github&logoColor=181717" /><img src="https://img.shields.io/badge/eclipseide-FDF4F5.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" /><img src="https://img.shields.io/badge/androidstudio-BA90C6.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" /><img src="https://img.shields.io/badge/dbeaver-C0DBEA.svg?style=for-the-badge&logo=dbeaver&logoColor=382923" /><img src="https://img.shields.io/badge/sublimetext-FDF4F5.svg?style=for-the-badge&logo=sublimetext&logoColor=FF9800" />
+<img src="https://img.shields.io/badge/github-E8C5E5.svg?style=for-the-badge&logo=github&logoColor=181717" /><img src="https://img.shields.io/badge/eclipseide-E8C5E5.svg?style=for-the-badge&logo=eclipseide&logoColor=2C2255" /><img src="https://img.shields.io/badge/androidstudio-E8C5E5.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" /><img src="https://img.shields.io/badge/dbeaver-E8C5E5.svg?style=for-the-badge&logo=dbeaver&logoColor=382923" /><img src="https://img.shields.io/badge/sublimetext-E8C5E5.svg?style=for-the-badge&logo=sublimetext&logoColor=FF9800" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ECEFF1,100:7BD1D2&height=200&section=footer)
