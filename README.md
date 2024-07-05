@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=𝐻𝑤𝑎𝑛𝑔%20ℎ𝑦𝑒%20𝑤𝑜𝑛&fontSize=70"/>
 
-<div align="right">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?color=263238&font=footlight MT light&pause=1000&random=false&width=435&lines=Hello,+World!" alt="Typing SVG" /></a>
 </div>
 
