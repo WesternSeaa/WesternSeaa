@@ -20,13 +20,15 @@
 </div>
 </details>
 
-
+<details>
+<summary>
 <h2 align="center"> ✎ Studying  </h2>
-
+</summary>
+  <br>
 <div align="center">
 <img src="https://img.shields.io/badge/spring-F7F9F2.svg?style=for-the-badge&logo=spring&logoColor=1572B6" />
 </div>
-
+</details>
 
 <h2 align="center"> ⚒ Tools  </h2>
 <div align="center">
