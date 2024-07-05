@@ -15,7 +15,7 @@
 <h2 align="center">  Tech Stack </h2>
 </summary>
 <br>
-<div align="center">
+<div align="center" font-weight="bold">
 <img src="https://img.shields.io/badge/html5-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=html5&logoColor=E34F26" /><img src="https://img.shields.io/badge/css3-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=css3&logoColor=1572B6" /><img src="https://img.shields.io/badge/javascript-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 </details>
