@@ -1,6 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=𝙼𝚢%20𝙶𝚒𝚝𝙷𝚞𝚋 %20𝙿𝚛𝚘𝚏𝚒𝚕𝚎&fontSize=70"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ECEFF1,100:7BD1D2&height=150&section=header" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=𝐻𝑤𝑎𝑛𝑔%20ℎ𝑦𝑒%20𝑤𝑜𝑛&fontSize=70"/>
 
