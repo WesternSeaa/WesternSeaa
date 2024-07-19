@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=ECEFF1&height=200&section=header&text=𝐻𝑤𝑎𝑛𝑔%20ℎ𝑦𝑒%20𝑤𝑜𝑛&fontSize=70"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?color=546E7A&font=footlight MT light&pause=1000&random=false&width=435&lines=ㅤㅤㅤＭｙ+ＧｉｔＨｕｂ+Ｐｒｏｆｉｌｅ" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?color=546E7A&font=footlight MT light&pause=1000&random=false&width=435&lines=ㅤㅤＭｙ+ＧｉｔＨｕｂ+Ｐｒｏｆｉｌｅ" alt="Typing SVG" /></a>
 </div>
 
 
